@@ -1,0 +1,8 @@
+body {
+    background: #655D8A;
+}
+
+h1,
+p {
+    color: var(--text-color);
+}
